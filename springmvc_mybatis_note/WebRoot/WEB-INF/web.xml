@@ -11,4 +11,6 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   -->
+  <!-- 修改已track的文件 -->
+  <!-- 修改已staged，但未commit的文件 -->
 </web-app>
